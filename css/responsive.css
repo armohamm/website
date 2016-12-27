@@ -50,6 +50,10 @@
 		line-height: 25px;
 		width: 30px;
 	}
+
+	#home-slider .fa-angle-down{
+		display: none;
+	}
 	#home-slider:hover .right-control {
 		right: 15px;
 	}
@@ -103,7 +107,7 @@
 		font-size: 30px;
 		height: 65px;
 		line-height: 62px;
-		width: 65px;
+		margin-bottom: 20px;
 	}
 	.our-services .col-sm-4:hover .service-icon:before {
 		height: 90px;
