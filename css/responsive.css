@@ -80,6 +80,10 @@
 		padding-top: 10px;
 	}
 
+    #about-us{
+	background-image: url(../images/about-bg-xs.png);
+    }
+
 	/*services*/
 	section {
 		padding: 45px 0;
